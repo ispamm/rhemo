@@ -1,5 +1,5 @@
 # Learning Speech Emotion Representations in the Quaternion Domain
-This repository supports the [paper](https://arxiv.org/abs/2204.02385) "Learning Speech Emotion Representations in the Quaternion Domain" submitted to IEEE Transactions of Audio, Speech and Language processing. Here you can find easy instructions for the download of the required data  and our pre-trained weights, for training from scratch RH-emo on Iemocap and for the application of our approach to a generic speech emotion recognition dataset.
+This repository supports the [paper](https://arxiv.org/abs/2204.02385) "Learning Speech Emotion Representations in the Quaternion Domain" submitted to IEEE/ACM Transactions of Audio, Speech and Language processing. Here you can find easy instructions for the download of the required data and our pre-trained weights, for training from scratch RH-emo on IEMOCAP and for the application of our approach to a generic speech emotion recognition dataset.
 
 
 ## Installation
